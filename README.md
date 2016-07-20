@@ -4,10 +4,9 @@ SUMMARY: During my stint at a startup called Captricity, every quarter we are gi
 
 HOW TO PLAY: Just fork and clone the repo and run the entire code. Then, type "play.capsino()" and then you can play the game. Type as fast and accurately as you can; you have a time limit and an accuracy threshold.
 
-You are fighting against the clock.  
-After the clock starts, Do NOT stop typing until you see your progress report.  
-There are Gold Standards. The secret is you don't have to get all the words/GS correct/  
-BUT make sure you have the EXACT number of spaces or else AUTO-FAIL!
+You are fighting against the clock!  
+Do NOT stop typing until you see your progress report.  
+There are Gold Standards.  
 And don't forget, you are being WATCHED...not by a watchman...but by the ever-present CLOCK.  
 May the Turker Force be with you!  
 
