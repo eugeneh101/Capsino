@@ -4,3 +4,8 @@ SUMMARY: During my stint at a startup called Captricity, every quarter we are gi
 
 HOW TO RUN IT: Just fork and clone the repo and run the entire code. Then, type "play.capsino()" and then you can play the game. Type as fast and accurately as you can; you have a time limit and an accuracy threshold.
 
+<img src="3.png", height=400>
+<img src="2.png", height=400>
+<img src="1.png", height=400>
+<img src="maze.png", height=400>
+<img src="spiral.png", height=400>
