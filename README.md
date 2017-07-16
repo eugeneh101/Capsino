@@ -12,7 +12,7 @@ May the Turker Force be with you!
 
 ![Countdown!](3-2.png)
 #<img src="3-2.png", height=400>
-#<img src="1-GO.png", height=400>
+#<img src="1-GO.png" height=400>
 
 Riddle me this: Behind this wall are 4 doors  
 They can either make you rich or make your poor  
