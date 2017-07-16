@@ -27,11 +27,11 @@ So may I ask, what door for thee? 1/2/3/4
 <img src="Monty-Begin.png" height=700>
 What's your choice? 42 won't save you now!
 <img src="Monty-Elimination.png" height=700>
-<img src="Monty-Winner.png", height=700>
+<img src="Monty-Winner.png" height=700>
 Are you a winner?  
 
 Did you win?  
-<img src="Eugene-loves-MTurk.png" height=700>
+<img src="Eugene-loves-MTurk.jpg" height=700>
 
 
 
