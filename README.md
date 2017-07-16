@@ -11,8 +11,7 @@ And don't forget, you are being WATCHED...not by a watchman...but by the ever-pr
 May the Turker Force be with you!  
 
 ![Countdown!](3-2.png)
-#<img src="3-2.png", height=400>
-#<img src="1-GO.png" height=400>
+<img src="1-GO.png" height=400>
 
 Riddle me this: Behind this wall are 4 doors  
 They can either make you rich or make your poor  
@@ -25,14 +24,14 @@ For you, it might bring joy or fear
 As nobody knows what's behind the door, not even me!  
 So may I ask, what door for thee? 1/2/3/4  
 
-<img src="Monty-Begin.png", height=700>
+<img src="Monty-Begin.png" height=700>
 What's your choice? 42 won't save you now!
-<img src="Monty-Elimination.png", height=700>
+<img src="Monty-Elimination.png" height=700>
 <img src="Monty-Winner.png", height=700>
 Are you a winner?  
 
 Did you win?  
-<img src="Eugene-loves-MTurk.png", height=700>
+<img src="Eugene-loves-MTurk.png" height=700>
 
 
 
